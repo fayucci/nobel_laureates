@@ -1,1 +1,1 @@
-web: bokeh serve — port=$PORT — allow-websocket-origin=nobel.herokuapp.com — address=0.0.0.0 — use-xheaders nobel.py
+web: bokeh serve --port=$PORT --allow-websocket-origin=nobel.herokuapp.com --address=0.0.0.0 --use-xheaders nobel.py
