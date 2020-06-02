@@ -91,7 +91,7 @@ def config_plot(active, x_name, y_name):
     mask = create_mask(active, df)
     X = df[x_name].unique().tolist()
     Y = df[y_name].unique().tolist()
-    x_scale = len(Y)*aspect_ratio / len(X)
+    x_scale = 1.5*len(Y)*aspect_ratio / len(X)
     clusters = df.groupby([x_name, y_name])
     largest_cluster = clusters.count()['laureate_id'].max()
     scale = scale_factor(largest_cluster)
