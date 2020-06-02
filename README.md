@@ -6,7 +6,7 @@ You can see it runnig [here](https://nobel-laureates.herokuapp.com/nobel).
 
 You can manipulate the visualization with differents filters like whether the laurates is a woman (and you can see how few of them) or how many laureates are alive or if the prize was shared
 
-You can also change the X axis between countries or affiliations and the Y axis between categories and decades.
+You can also change the X axis between countries or affiliations and the Y axis between categories and decades or hover on  the circles for more details like name of laureate, year, country, category and motive.
 
 
 
