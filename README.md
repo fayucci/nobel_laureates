@@ -1,4 +1,4 @@
-# nobel_laureates
+# A visual history of Nobel Prizes
 
 Here you can find a Bokeh app that will allow you to visualize the history of Nobel prizes.
 
